@@ -1,0 +1,6 @@
+[book]
+authors = ["Ewan Stamford"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Jr Tech Book"
